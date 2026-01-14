@@ -1,6 +1,13 @@
 # 飞利浦水健康集成
 
 Home Assistant 自定义集成，用于控制飞利浦/Deerma 净水器设备。
+## 效果图
+### 配置后的实体
+<img width="1270" height="808" alt="ScreenShot_2026-01-14_202921_609" src="https://github.com/user-attachments/assets/a4c94a22-77be-426c-8f00-0ad62b54975d" />
+
+### 详细的历史数据
+
+<img width="575" height="830" alt="ScreenShot_2026-01-14_203024_290" src="https://github.com/user-attachments/assets/8b238991-cf02-45e3-b932-6c2243c8f122" />
 
 ## 功能特性
 
