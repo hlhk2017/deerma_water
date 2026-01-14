@@ -1,0 +1,6 @@
+{
+  "name": "飞利浦水健康",
+  "domains": ["deerma_water"],
+  "iot_class": "Cloud Polling",
+  "homeassistant": "2023.1.0"
+}
