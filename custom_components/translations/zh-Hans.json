@@ -1,0 +1,48 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "配置Deerma净水器",
+        "description": "请选择登录方式",
+        "data": {
+          "login_type": "登录方式"
+        },
+        "data_description": {
+          "login_type": "选择使用密码登录或验证码登录"
+        }
+      },
+      "password": {
+        "title": "密码登录",
+        "description": "请输入您的手机号和密码",
+        "data": {
+          "phone": "手机号",
+          "password": "密码"
+        }
+      },
+      "captcha_phone": {
+        "title": "验证码登录 - 输入手机号",
+        "description": "请输入您的手机号，我们将发送验证码",
+        "data": {
+          "phone": "手机号"
+        }
+      },
+      "captcha": {
+        "title": "验证码登录",
+        "description": "验证码已发送到 {phone}，请输入验证码",
+        "data": {
+          "phone": "手机号",
+          "captcha": "验证码"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "无法连接到服务器",
+      "invalid_auth": "认证失败，请检查手机号和密码/验证码",
+      "unknown": "发生未知错误",
+      "captcha_request_failed": "请求验证码失败，请重试"
+    },
+    "abort": {
+      "already_configured": "该设备已配置"
+    }
+  }
+}
